@@ -13,3 +13,8 @@ Helpful Links
 --https://www.tableau.com/blog/LOD-expressions
 
 --https://www.flerlagetwins.com/2020/02/lod-uses.html
+
+Tableau Public Workbooks:
+
+-- https://public.tableau.com/app/profile/nicholas.bradford6755/viz/LODsChallenges/DetailDemo
+-- https://public.tableau.com/app/profile/nicholas.bradford6755/viz/LODsChallengesWithAnswers/DetailDemo
