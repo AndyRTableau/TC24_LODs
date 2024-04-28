@@ -17,4 +17,5 @@ Helpful Links
 Tableau Public Workbooks:
 
 -- https://public.tableau.com/app/profile/nicholas.bradford6755/viz/LODsChallenges/DetailDemo
+
 -- https://public.tableau.com/app/profile/nicholas.bradford6755/viz/LODsChallengesWithAnswers/DetailDemo
